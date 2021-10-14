@@ -1,4 +1,0 @@
-D:\OneDrive - Politechnika Łódzka\1 rok, II semestr\TECHNOLOGIE INFORMATYCZNE II\C++\klasy\klasy_projektWojownicy\Debug\klasy_projektWojownicy.exe
-D:\OneDrive - Politechnika Łódzka\1 rok, II semestr\TECHNOLOGIE INFORMATYCZNE II\C++\klasy\klasy_projektWojownicy\Debug\klasy_projektWojownicy.pdb
-D:\OneDrive - Politechnika Łódzka\1 rok, II semestr\TECHNOLOGIE INFORMATYCZNE II\C++\klasy\klasy_projektGierka\Debug\klasy_projektWojownicy.exe
-D:\OneDrive - Politechnika Łódzka\1 rok, II semestr\TECHNOLOGIE INFORMATYCZNE II\C++\klasy\klasy_projektGierka\Debug\klasy_projektWojownicy.pdb
